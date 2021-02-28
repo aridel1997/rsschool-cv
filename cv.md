@@ -6,7 +6,7 @@
 ## Contact details
 
 - tel: <a href="tel: +375298617150">+375 (29) 861-71-50</a>
-- e-mail: arinadelendik1997@gmail.com
+- e-mail: <a href="mailto: arinadelendik1997@gmail.com">arinadelendik1997@gmail.com</a>
 - github: [aridel1997](https://github.com/aridel1997)
 - [linkedin](https://www.linkedin.com/in/arina-delendik-6679b21b4/)
 
