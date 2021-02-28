@@ -1,6 +1,8 @@
 
 # Arina Baranovskaya
 
+<img src="https://user-images.githubusercontent.com/31563431/109430590-2f367f00-7a13-11eb-9279-4cbc19217365.jpg" alt="Arina Baranovskaya" width="200">
+
 ## Contact details
 
 - tel: +375 (29) 861-71-50
