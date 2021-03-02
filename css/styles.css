@@ -127,3 +127,24 @@ article {
         margin: 20px auto;
     }
 }
+
+/* --------   Footer   -------- */
+.footer {
+    text-align: center;
+}
+
+.footer, footer a{
+    background-color: #6d6d6d;
+    color: #fff;
+}
+
+.footer p, .rs-school{
+    padding: 25px 0 0 0;
+}
+.footer ul{
+    margin: 25px 0 25px -40px;
+}
+.footer ul li{
+    display: inline;
+    padding-right: 30px;
+}
